@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollGoC", "PayrollGoC.csproj", "{EFCD4A7B-3FBF-48DD-BD71-1A70431FB111}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F4664B2-3007-458C-BF2B-77D3DBFB0782}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		..\..\..\Downloads\Payroll\Logo60px.jpg = ..\..\..\Downloads\Payroll\Logo60px.jpg
+		..\..\..\Downloads\Payroll\payroll_check.jpg = ..\..\..\Downloads\Payroll\payroll_check.jpg
+		..\..\..\Downloads\Payroll\team___copy_C6o_icon.ico = ..\..\..\Downloads\Payroll\team___copy_C6o_icon.ico
+		..\..\..\Downloads\Payroll\Untitled.png = ..\..\..\Downloads\Payroll\Untitled.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFCD4A7B-3FBF-48DD-BD71-1A70431FB111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCD4A7B-3FBF-48DD-BD71-1A70431FB111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCD4A7B-3FBF-48DD-BD71-1A70431FB111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCD4A7B-3FBF-48DD-BD71-1A70431FB111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2771A2B2-E8CD-4DDC-A71A-1087247ED4D2}
+	EndGlobalSection
+EndGlobal
